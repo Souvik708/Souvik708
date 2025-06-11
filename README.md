@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik</h1>
-<h3 align="center">I'm a M.Tech student in IIT Hyderabad</h3>
+<h3 align="center">I'm a M.Tech student at IIT Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik708&label=Profile%20views&color=0e75b6&style=flat" alt="souvik708" /> </p>
 
